@@ -1,0 +1,7 @@
+
+class Lib
+{
+public:
+    Lib(); 
+};
+
